@@ -10,4 +10,5 @@ Kind regards,
 Ossian Broman
 
 Feel free to contact me on ossian@broman.me!
+
 www.linkedin.com/in/ossian-broman
