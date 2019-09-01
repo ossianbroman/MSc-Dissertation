@@ -1,5 +1,5 @@
 # MSc-Dissertation
-University of St Andrews Dissertation project with Irithmcis
+University of St Andrews Dissertation project 
 
 
 Welcome to the reporitory!
